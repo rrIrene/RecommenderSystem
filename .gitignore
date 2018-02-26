@@ -1,6 +1,5 @@
 
-Assignment 1/glove.6b/glove.6B.300d.txt
-Assignment 1/GoogleNews-vectors-negative300.bin
+glove.6b/glove.6B.300d.txt
+GoogleNews-vectors-negative300.bin
 Assignment 1/data_skipgram.txt
-
 Assignment 1/data_cbow.txt
